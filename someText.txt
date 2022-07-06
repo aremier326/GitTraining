@@ -1,4 +1,4 @@
 line1
 Text example
-line3
+line3 another change
 some new line
