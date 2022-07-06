@@ -1,4 +1,5 @@
 line1
 Text example
-line3 another change
+line3 after merge
 some new line
+fifth line
