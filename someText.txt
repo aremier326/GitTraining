@@ -3,3 +3,4 @@ Text example
 line3 after merge
 some new line
 fifth line
+another one line
